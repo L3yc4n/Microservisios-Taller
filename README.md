@@ -1,6 +1,5 @@
 # Microservisios-Taller
-Ariana me caes mal, chinita MUEJJEJEJEJEJJE
-ño
+trabaja mujer
 
 # dockerfile.python.flask
 
